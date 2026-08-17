@@ -12,3 +12,5 @@ The portfolio includes:
 - Original and Enhanced Artifacts
 
 The main ePortfolio is presented through `index.html`. The Professional Self-Assessment serves as the formal introduction to the portfolio, followed by the artifact enhancements and code review.
+
+Code Review Link in case index.html is broken https://youtu.be/5ilzH5Wks38
