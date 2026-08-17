@@ -1,0 +1,16 @@
+# Web dashboard framework and Jupyter integration.
+dash
+jupyter-dash
+
+# Interactive map component used by the dashboard.
+dash-leaflet
+
+# Data manipulation and chart generation.
+pandas
+plotly
+
+# MongoDB driver and BSON/ObjectId support.
+pymongo
+
+# Loads local .env configuration values during development.
+python-dotenv

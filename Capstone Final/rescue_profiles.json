@@ -1,0 +1,51 @@
+{
+  "Water Rescue": {
+    "preferred_breeds": [
+      "Labrador Retriever Mix",
+      "Chesapeake Bay Retriever",
+      "Newfoundland"
+    ],
+    "preferred_sexes": ["Intact Female"],
+    "age_weeks": {"minimum": 26, "maximum": 156},
+    "weights": {
+      "breed": 50,
+      "age": 30,
+      "sex": 15,
+      "location": 5
+    }
+  },
+  "Mountain or Wilderness Rescue": {
+    "preferred_breeds": [
+      "German Shepherd",
+      "Alaskan Malamute",
+      "Old English Sheepdog",
+      "Siberian Husky",
+      "Rottweiler"
+    ],
+    "preferred_sexes": ["Intact Male"],
+    "age_weeks": {"minimum": 26, "maximum": 156},
+    "weights": {
+      "breed": 50,
+      "age": 30,
+      "sex": 15,
+      "location": 5
+    }
+  },
+  "Disaster or Individual Tracking": {
+    "preferred_breeds": [
+      "Doberman Pinscher",
+      "German Shepherd",
+      "Golden Retriever",
+      "Bloodhound",
+      "Rottweiler"
+    ],
+    "preferred_sexes": ["Intact Male"],
+    "age_weeks": {"minimum": 20, "maximum": 300},
+    "weights": {
+      "breed": 50,
+      "age": 30,
+      "sex": 15,
+      "location": 5
+    }
+  }
+}
